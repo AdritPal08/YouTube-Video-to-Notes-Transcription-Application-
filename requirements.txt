@@ -3,5 +3,5 @@ google-generativeai
 python-dotenv
 logger
 youtube_transcript_api
-textwrap
+textwrap3
 -e .
