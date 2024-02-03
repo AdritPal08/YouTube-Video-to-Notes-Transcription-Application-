@@ -1,6 +1,6 @@
 # Notes Craft Pro : An application that effortlessly transcribes your YouTube videos into detailed notes
 
-### An end-to-end project using Google Gemini, Python, and Streamlit to create an application where you Simply input your YouTube video link and add your prompt, and effortlessly transcribe your videos into detailed notes.
+\An end-to-end project using Google Gemini, Python, and Streamlit to create an application where you Simply input your YouTube video link and add your prompt, and effortlessly transcribe your videos into detailed notes.
 
 ## App Demo
 * App Name : Notes Craft Pro
