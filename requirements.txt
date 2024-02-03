@@ -3,8 +3,5 @@ google-generativeai
 python-dotenv
 logger
 youtube_transcript_api
-ipython
-markdowntodocx
-python-docx
 textwrap
 -e .
